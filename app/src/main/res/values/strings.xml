@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Protego</string>
+    <string name="login_activity_title">User Login</string>
+    <string name="enable_location_settings">Enable the Location Settings</string>
+    <string name="login_error_msg_invalid_params">Invalid Phone Number</string>
+    <string name="login_error_msg">Error Logging In</string>
+    <string name="main_logout_success_msg">Successfully Logged Out</string>
+    <string name="msg_danger">Alert! You are Passing through potentially risky area</string>
+</resources>
